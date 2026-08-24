@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React from "react";
-import p from "../assets/m1.JPEG";
+import p from "../assets/m1.jpeg";
 
 export default function About() {
   const stats = [
