@@ -1,12 +1,13 @@
 import {useState,useMemo,useRef,useEffect} from "react";
 import { motion, AnimatePresence, useMotionValueEvent, useScroll } from "framer-motion";
 
-import img1 from "../assets/img1.PNG"
-import img2 from "../assets/img2.PNG"
-import img3 from "../assets/img3.JPG"
-import photo1 from "../assets/photo1.JPEG"
-import photo2 from "../assets/photo2.JPEG"
-import photo3 from "../assets/photo3.PNG"
+import img1 from "../assets/img1.png";
+import img2 from "../assets/img2.png";
+import img3 from "../assets/img3.JPG";
+// import m1 from "../assets/m1.jpeg";
+import photo1 from "../assets/photo1.jpeg";
+import photo2 from "../assets/photo2.PNG";
+import photo3 from "../assets/photo3.png";
 
 
 

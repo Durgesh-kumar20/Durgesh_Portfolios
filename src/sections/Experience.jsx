@@ -12,8 +12,8 @@ const experiences = [
     description: "Built high-performance apps, integrated AI features, improved engagement by 10%.",
   },
   {
-    role: "Web Developer Intern",
-    company: "Mobisoft Technologies",
+    role: "Web Developer",
+    company: "---",
     // duration: "2026 - 2027",
     description: "Gained hands-on web development experience.",
   },
