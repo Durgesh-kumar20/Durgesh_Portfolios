@@ -6,7 +6,7 @@ import img2 from "../assets/img2.png";
 import img3 from "../assets/img3.JPG";
 // import m1 from "../assets/m1.jpeg";
 import photo1 from "../assets/photo1.jpeg";
-import photo2 from "../assets/photo2.PNG";
+import photo2 from "../assets/photo2.jpeg";
 import photo3 from "../assets/photo3.png";
 
 
