@@ -150,11 +150,12 @@ export default function Project(){
         ))}
       </div>
       
-      <div className={`absolute ${isMobile?"bottom-20" : "bottom-10"}`}>
-        <a href={activeProject?.link}
+      <div className={`absolute z-50 ${isMobile?"bottom-20" : "bottom-10"}`}>
+        <a 
+        href={activeProject?.link}
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-block px-6 py-3 font-semibold rounded-lg bg-white text-black hover:bg-gray-200 transition-all"
+        className="relative z-50 inline-block px-3 py-3 font-semibold rounded-lg bg-white text-black hover:bg-gray-200 transition-all cursor-pointer"
         aria-label={`View ${activeProject?.title}`}> 
         View Project
         </a>
