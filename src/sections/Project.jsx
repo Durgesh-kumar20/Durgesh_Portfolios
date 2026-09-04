@@ -3,11 +3,11 @@ import { motion, AnimatePresence, useMotionValueEvent, useScroll } from "framer-
 
 import img1 from "../assets/img1.png";
 import img2 from "../assets/img2.png";
-import img3 from "../assets/img3.JPG";
+import img3 from "../assets/img3.png";
 // import m1 from "../assets/m1.jpeg";
 import photo1 from "../assets/photo1.jpeg";
 import photo2 from "../assets/photo2.jpeg";
-import photo3 from "../assets/photo3.png";
+import photo3 from "../assets/photo3.jpeg";
 
 
 
@@ -50,9 +50,9 @@ export default function Project(){
         image: isMobile ? photo2 : img2,
       },
       {
-        title: "Hungry Tiger",
-        link: "https://www.eathungrytiger.com/",
-        bgColor: "#dc9317",
+        title: "Clean-&-Shine",
+        link: "https://clean-n-shine.netlify.app/",
+        bgColor: "#0D9488",
         image: isMobile ? photo3 : img3,
       },
     ],
